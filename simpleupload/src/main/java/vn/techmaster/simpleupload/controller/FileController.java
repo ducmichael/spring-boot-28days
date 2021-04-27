@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import vn.techmaster.simpleupload.payload.UploadFileResponse;
+import vn.techmaster.simpleupload.model.UploadFileResponse;
 import vn.techmaster.simpleupload.service.FileStorageService;
 
 import javax.servlet.http.HttpServletRequest;

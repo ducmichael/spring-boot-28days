@@ -11,7 +11,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import vn.techmaster.simpleupload.exception.FileStorageException;
 import vn.techmaster.simpleupload.exception.MyFileNotFoundException;
-import vn.techmaster.simpleupload.payload.UploadFileResponse;
+import vn.techmaster.simpleupload.model.UploadFileResponse;
 import vn.techmaster.simpleupload.property.FileStorageProperties;
 import vn.techmaster.simpleupload.repository.UploadRepository;
 

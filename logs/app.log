@@ -690,3 +690,10 @@
 [DEBUG] 2021-04-27 09:50:07.074 [restartedMain] SimpleuploadApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
 [INFO ] 2021-04-27 09:50:07.074 [restartedMain] SimpleuploadApplication - No active profile set, falling back to default profiles: default
 [INFO ] 2021-04-27 09:50:08.189 [restartedMain] SimpleuploadApplication - Started SimpleuploadApplication in 1.258 seconds (JVM running for 379.938)
+[INFO ] 2021-04-27 10:06:56.045 [restartedMain] SimpleuploadApplication - Starting SimpleuploadApplication using Java 16 on DESKTOP-DCC0OUL with PID 10428 (D:\1MG-DUC\10-RESTBinary\simpleupload\target\classes started by Dinh Xuan Trung Duc in D:\1MG-DUC\10-RESTBinary)
+[DEBUG] 2021-04-27 10:06:56.061 [restartedMain] SimpleuploadApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+[INFO ] 2021-04-27 10:06:56.077 [restartedMain] SimpleuploadApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-27 10:07:31.110 [restartedMain] SimpleuploadApplication - Starting SimpleuploadApplication using Java 16 on DESKTOP-DCC0OUL with PID 3232 (D:\1MG-DUC\10-RESTBinary\simpleupload\target\classes started by Dinh Xuan Trung Duc in D:\1MG-DUC\10-RESTBinary)
+[DEBUG] 2021-04-27 10:07:31.126 [restartedMain] SimpleuploadApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+[INFO ] 2021-04-27 10:07:31.126 [restartedMain] SimpleuploadApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-27 10:07:36.370 [restartedMain] SimpleuploadApplication - Started SimpleuploadApplication in 5.851 seconds (JVM running for 7.053)

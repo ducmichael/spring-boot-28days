@@ -847,3 +847,20 @@
 [DEBUG] 2021-04-27 09:50:14.290 [http-nio-8080-exec-9] RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
 [DEBUG] 2021-04-27 09:50:14.294 [http-nio-8080-exec-9] RequestResponseBodyMethodProcessor - Writing [UploadFileResponse(id=0, fileName=ac.PNG, fileDownloadUri=http://localhost:8080/static/ac.PNG, fileD (truncated)...]
 [DEBUG] 2021-04-27 09:50:14.298 [http-nio-8080-exec-9] DispatcherServlet - Completed 200 OK
+[DEBUG] 2021-04-27 10:07:35.954 [restartedMain] RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[DEBUG] 2021-04-27 10:07:36.066 [restartedMain] RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+[DEBUG] 2021-04-27 10:07:36.106 [restartedMain] WebMvcConfigurer - Default resource handling disabled
+[DEBUG] 2021-04-27 10:07:36.138 [restartedMain] ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[INFO ] 2021-04-27 10:07:49.826 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[DEBUG] 2021-04-27 10:07:49.830 [http-nio-8080-exec-1] DispatcherServlet - Detected StandardServletMultipartResolver
+[DEBUG] 2021-04-27 10:07:49.830 [http-nio-8080-exec-1] DispatcherServlet - Detected AcceptHeaderLocaleResolver
+[DEBUG] 2021-04-27 10:07:49.834 [http-nio-8080-exec-1] DispatcherServlet - Detected FixedThemeResolver
+[DEBUG] 2021-04-27 10:07:49.834 [http-nio-8080-exec-1] DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@3fa4e57f
+[DEBUG] 2021-04-27 10:07:49.838 [http-nio-8080-exec-1] DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@16278ec5
+[DEBUG] 2021-04-27 10:07:49.866 [http-nio-8080-exec-1] DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[INFO ] 2021-04-27 10:07:49.870 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 40 ms
+[DEBUG] 2021-04-27 10:07:49.943 [http-nio-8080-exec-1] DispatcherServlet - POST "/photo", parameters={masked}
+[DEBUG] 2021-04-27 10:07:50.015 [http-nio-8080-exec-1] RequestMappingHandlerMapping - Mapped to vn.techmaster.simpleupload.controller.FileController#uploadFile(MultipartFile, String)
+[DEBUG] 2021-04-27 10:07:50.184 [http-nio-8080-exec-1] RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+[DEBUG] 2021-04-27 10:07:50.188 [http-nio-8080-exec-1] RequestResponseBodyMethodProcessor - Writing [UploadFileResponse(id=0, fileName=ac.PNG, fileDownloadUri=http://localhost:8080/static/ac.PNG, fileD (truncated)...]
+[DEBUG] 2021-04-27 10:07:50.209 [http-nio-8080-exec-1] DispatcherServlet - Completed 200 OK

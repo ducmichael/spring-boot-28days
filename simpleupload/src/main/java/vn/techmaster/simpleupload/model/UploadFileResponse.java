@@ -1,4 +1,4 @@
-package vn.techmaster.simpleupload.payload;
+package vn.techmaster.simpleupload.model;
 
 
 import javax.persistence.Entity;
